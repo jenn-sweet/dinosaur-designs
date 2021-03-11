@@ -19,3 +19,17 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+nav {
+  list-style-type: 1.125rem;
+  font-weight: bold;
+}
+nav ol {
+  list-style-type: none;
+}
+nav a:hover {
+  color: #b42885;
+  text-decoration: underline;
+}
+.intro {
+  font-size: 1rem
+}
